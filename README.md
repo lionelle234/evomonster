@@ -6,8 +6,13 @@ Shoot your way through hordes of aliens and consume small creatures to evolve in
 Controls:
 
 W/S - Move up and down
+
 Space Bar - Shoot projectiles
+
 E - Eat small enemies to fill the evolution bar
+
 Q - Activate shield ability (Requires evolution)
+
 P - Pause game
+
 Esc - Return to main menu when paused
