@@ -1,0 +1,1071 @@
+fileFormatVersion: 2
+guid: 1bcccab08e311524ca55a6ffd519e017
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 634623097780953224
+    second: Microbius pixelart_by_AxulArt_0
+  - first:
+      213: -7651786665016494628
+    second: Microbius pixelart_by_AxulArt_1
+  - first:
+      213: -4870064871621467380
+    second: Microbius pixelart_by_AxulArt_2
+  - first:
+      213: -4086778984860865932
+    second: Microbius pixelart_by_AxulArt_3
+  - first:
+      213: 7724368544279950923
+    second: Microbius pixelart_by_AxulArt_4
+  - first:
+      213: -2307586186075221973
+    second: Microbius pixelart_by_AxulArt_5
+  - first:
+      213: 8409887632764857739
+    second: Microbius pixelart_by_AxulArt_6
+  - first:
+      213: -5382084593024964812
+    second: Microbius pixelart_by_AxulArt_7
+  - first:
+      213: 1305578855825154209
+    second: Microbius pixelart_by_AxulArt_8
+  - first:
+      213: 5140231065565205676
+    second: Microbius pixelart_by_AxulArt_9
+  - first:
+      213: -1248263803658140867
+    second: Microbius pixelart_by_AxulArt_10
+  - first:
+      213: 3518930791057633654
+    second: Microbius pixelart_by_AxulArt_11
+  - first:
+      213: -8122930575391190290
+    second: Microbius pixelart_by_AxulArt_12
+  - first:
+      213: 3821042597998445770
+    second: Microbius pixelart_by_AxulArt_13
+  - first:
+      213: -1739592127048700528
+    second: Microbius pixelart_by_AxulArt_14
+  - first:
+      213: -8722446285385519351
+    second: Microbius pixelart_by_AxulArt_15
+  - first:
+      213: 8448188171059722427
+    second: Microbius pixelart_by_AxulArt_16
+  - first:
+      213: -3023291049441880786
+    second: Microbius pixelart_by_AxulArt_17
+  - first:
+      213: -1643587361964945807
+    second: Microbius pixelart_by_AxulArt_18
+  - first:
+      213: 7263332252608081303
+    second: Microbius pixelart_by_AxulArt_19
+  - first:
+      213: -3165978939234026351
+    second: Microbius pixelart_by_AxulArt_20
+  - first:
+      213: 6471785713191101547
+    second: Microbius pixelart_by_AxulArt_21
+  - first:
+      213: 7671055427017520153
+    second: Microbius pixelart_by_AxulArt_22
+  - first:
+      213: -4668803856647948413
+    second: Microbius pixelart_by_AxulArt_23
+  - first:
+      213: -880821115459866868
+    second: Microbius pixelart_by_AxulArt_24
+  - first:
+      213: -7353864695375901563
+    second: Microbius pixelart_by_AxulArt_25
+  - first:
+      213: 1776477097742080924
+    second: Microbius pixelart_by_AxulArt_26
+  - first:
+      213: 9041801357364886507
+    second: Microbius pixelart_by_AxulArt_27
+  - first:
+      213: -2969530471769034198
+    second: Microbius pixelart_by_AxulArt_28
+  - first:
+      213: 4726460492031121129
+    second: Microbius pixelart_by_AxulArt_29
+  - first:
+      213: 1798251754071477162
+    second: Microbius pixelart_by_AxulArt_30
+  - first:
+      213: 6846540480591298486
+    second: Microbius pixelart_by_AxulArt_31
+  - first:
+      213: -2310013660739862542
+    second: Microbius pixelart_by_AxulArt_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880ed755852aec800800000000000000
+      internalID: 634623097780953224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5fe9ea1946fc590800000000000000
+      internalID: -7651786665016494628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 111
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03e4ed4dcd0a6cb0800000000000000
+      internalID: -4870064871621467380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a26db7a28d847c0800000000000000
+      internalID: -4086778984860865932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46f10cf348723b60800000000000000
+      internalID: 7724368544279950923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 111
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b205362079ec9ffd0800000000000000
+      internalID: -2307586186075221973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d66e79e3ce5b470800000000000000
+      internalID: 8409887632764857739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e4a1049efe45b0800000000000000
+      internalID: -5382084593024964812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a028b75d095e1210800000000000000
+      internalID: 1305578855825154209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 82
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca411768be4c55740800000000000000
+      internalID: 5140231065565205676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 82
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d338af42fa64daee0800000000000000
+      internalID: -1248263803658140867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671bc2e09e0c5d030800000000000000
+      internalID: 3518930791057633654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 50
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee216a6cdad854f80800000000000000
+      internalID: -8122930575391190290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac445558ff1170530800000000000000
+      internalID: 3821042597998445770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d223d5d2abbd7e0800000000000000
+      internalID: -1739592127048700528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fab232155a3f680800000000000000
+      internalID: -8722446285385519351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8fba3916efd3570800000000000000
+      internalID: 8448188171059722427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2516610fcc1b06d0800000000000000
+      internalID: -3023291049441880786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e02cc900ec039e0800000000000000
+      internalID: -1643587361964945807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79da752733a8cc460800000000000000
+      internalID: 7263332252608081303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c7698cdee2014d0800000000000000
+      internalID: -3165978939234026351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 32
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64243131d660d950800000000000000
+      internalID: 6471785713191101547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91436b39440157a60800000000000000
+      internalID: 7671055427017520153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3877686f0a3153fb0800000000000000
+      internalID: -4668803856647948413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fe95ebcd1b6c3f0800000000000000
+      internalID: -880821115459866868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c45d1a503d1f990800000000000000
+      internalID: -7353864695375901563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_27
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebf063dd6eea7d70800000000000000
+      internalID: 9041801357364886507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a223288e4cb1ac6d0800000000000000
+      internalID: -2969530471769034198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6de6096c2c79140800000000000000
+      internalID: 4726460492031121129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab472a517ca4f810800000000000000
+      internalID: 1798251754071477162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bff9f5ea4cc30f50800000000000000
+      internalID: 6846540480591298486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fffc4580de21ffd0800000000000000
+      internalID: -2310013660739862542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2a52e11da488b488e035b8c4eec8e7
+      internalID: -9694198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246e19993e6405438a4bdd22013ba79
+      internalID: 1776477097742080924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1802de93dc37d7429cefc5b9cf928f6
+      internalID: -1688015303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1023b8a9617a3c94186a1334e850df76
+      internalID: -1118740536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 164
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27383493a1d891a4f834804bee48fd24
+      internalID: -463544323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microbius pixelart_by_AxulArt_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900c654045ecabc4c8ce5f97f05e8b6b
+      internalID: 836626978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 151535d4b139ea945a3f60daf654dd9a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Microbius pixelart_by_AxulArt_0: 634623097780953224
+      Microbius pixelart_by_AxulArt_1: -7651786665016494628
+      Microbius pixelart_by_AxulArt_10: -1248263803658140867
+      Microbius pixelart_by_AxulArt_11: 3518930791057633654
+      Microbius pixelart_by_AxulArt_12: -8122930575391190290
+      Microbius pixelart_by_AxulArt_13: 3821042597998445770
+      Microbius pixelart_by_AxulArt_14: -1739592127048700528
+      Microbius pixelart_by_AxulArt_15: -8722446285385519351
+      Microbius pixelart_by_AxulArt_16: 8448188171059722427
+      Microbius pixelart_by_AxulArt_17: -3023291049441880786
+      Microbius pixelart_by_AxulArt_18: -1643587361964945807
+      Microbius pixelart_by_AxulArt_19: 7263332252608081303
+      Microbius pixelart_by_AxulArt_2: -4870064871621467380
+      Microbius pixelart_by_AxulArt_20: -3165978939234026351
+      Microbius pixelart_by_AxulArt_21: 6471785713191101547
+      Microbius pixelart_by_AxulArt_22: 7671055427017520153
+      Microbius pixelart_by_AxulArt_23: -4668803856647948413
+      Microbius pixelart_by_AxulArt_24: -880821115459866868
+      Microbius pixelart_by_AxulArt_25: -7353864695375901563
+      Microbius pixelart_by_AxulArt_26: 1776477097742080924
+      Microbius pixelart_by_AxulArt_27: 9041801357364886507
+      Microbius pixelart_by_AxulArt_28: -2969530471769034198
+      Microbius pixelart_by_AxulArt_29: 4726460492031121129
+      Microbius pixelart_by_AxulArt_3: -4086778984860865932
+      Microbius pixelart_by_AxulArt_30: 1798251754071477162
+      Microbius pixelart_by_AxulArt_31: 6846540480591298486
+      Microbius pixelart_by_AxulArt_32: -2310013660739862542
+      Microbius pixelart_by_AxulArt_33: -9694198
+      Microbius pixelart_by_AxulArt_34: -1688015303
+      Microbius pixelart_by_AxulArt_35: -1118740536
+      Microbius pixelart_by_AxulArt_36: -463544323
+      Microbius pixelart_by_AxulArt_37: 836626978
+      Microbius pixelart_by_AxulArt_4: 7724368544279950923
+      Microbius pixelart_by_AxulArt_5: -2307586186075221973
+      Microbius pixelart_by_AxulArt_6: 8409887632764857739
+      Microbius pixelart_by_AxulArt_7: -5382084593024964812
+      Microbius pixelart_by_AxulArt_8: 1305578855825154209
+      Microbius pixelart_by_AxulArt_9: 5140231065565205676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

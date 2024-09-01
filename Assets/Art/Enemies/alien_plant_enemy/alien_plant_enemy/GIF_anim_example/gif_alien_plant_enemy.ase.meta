@@ -1,0 +1,976 @@
+fileFormatVersion: 2
+guid: b92781b6dc76aa64fa822b685378ac42
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: gif_alien_plant_enemy_Frame_0
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 299
+      width: 61
+      height: 29
+    spriteID: e703eafb61c1c7d4e9c43a95f871b5bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 299}
+  - name: gif_alien_plant_enemy_Frame_1
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 336
+      width: 61
+      height: 29
+    spriteID: 81cf4c68434e35840b3de1fe36b42c41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 336}
+  - name: gif_alien_plant_enemy_Frame_2
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 373
+      width: 61
+      height: 29
+    spriteID: 3d8767bf02f871a49ab385563d6c483b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 373}
+  - name: gif_alien_plant_enemy_Frame_3
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 410
+      width: 61
+      height: 29
+    spriteID: 3aef5fc2ed96d51458cc8e3b8272d5d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 410}
+  - name: gif_alien_plant_enemy_Frame_4
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.022222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 193
+      width: 61
+      height: 45
+    spriteID: 50e5961dcaa6b1d46845ca4bf691f6f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 193}
+  - name: gif_alien_plant_enemy_Frame_5
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 4
+      width: 61
+      height: 55
+    spriteID: cb8c208823fc57942a86ddc405e261c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 4}
+  - name: gif_alien_plant_enemy_Frame_6
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 67
+      width: 61
+      height: 55
+    spriteID: e8e2deb45f087604b9c4d8133103232d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 67}
+  - name: gif_alien_plant_enemy_Frame_7
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 130
+      width: 61
+      height: 55
+    spriteID: 34edf2e172cabd3419e8df3d10a40ff1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 130}
+  - name: gif_alien_plant_enemy_Frame_8
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 193
+      width: 61
+      height: 55
+    spriteID: 990cafc4db4bd4f4194bb16943712355
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 193}
+  - name: gif_alien_plant_enemy_Frame_9
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 256
+      width: 61
+      height: 55
+    spriteID: f815b8922f727474a969d7a4843dac0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 256}
+  - name: gif_alien_plant_enemy_Frame_10
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 319
+      width: 61
+      height: 55
+    spriteID: 4953023704c83d245a94a3c93b4c24de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 319}
+  - name: gif_alien_plant_enemy_Frame_11
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 382
+      width: 61
+      height: 55
+    spriteID: f8fe0e63e8901094493c383727c69f56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 382}
+  - name: gif_alien_plant_enemy_Frame_12
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 445
+      width: 61
+      height: 55
+    spriteID: 4798141387317064b92ff369fa81dca4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 445}
+  - name: gif_alien_plant_enemy_Frame_13
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 4
+      width: 61
+      height: 55
+    spriteID: 45bbab7b47b170a4dbaf296b005a2237
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 4}
+  - name: gif_alien_plant_enemy_Frame_14
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 67
+      width: 61
+      height: 55
+    spriteID: 923cfccbf4717dc498491f8f0fdc842d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 67}
+  - name: gif_alien_plant_enemy_Frame_15
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 130
+      width: 61
+      height: 55
+    spriteID: 510cff193f03fbd4aab7aeba212e3733
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 130}
+  - name: gif_alien_plant_enemy_Frame_16
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 59
+      height: 62
+    spriteID: b92950b48de57844284d6fd034be03ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: gif_alien_plant_enemy_Frame_17
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 74
+      width: 59
+      height: 62
+    spriteID: 2e0fb910bc1b66c45b0b4f5697ba967b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 74}
+  - name: gif_alien_plant_enemy_Frame_18
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 144
+      width: 59
+      height: 62
+    spriteID: 27ae21c5348f0d24980bcb337929f7cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 144}
+  - name: gif_alien_plant_enemy_Frame_19
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 214
+      width: 59
+      height: 62
+    spriteID: 28fecf174ca29ae46a5f3536e528471f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 214}
+  - name: gif_alien_plant_enemy_Frame_20
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 284
+      width: 59
+      height: 62
+    spriteID: dd4951a5867d77f44b3801de7747317e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 284}
+  - name: gif_alien_plant_enemy_Frame_21
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 354
+      width: 59
+      height: 62
+    spriteID: e1c5cb97e005fb845b76042eea1fd5cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 354}
+  - name: gif_alien_plant_enemy_Frame_22
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 424
+      width: 59
+      height: 62
+    spriteID: 222a58f84ac08d74aa82b17282c8851e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 424}
+  - name: gif_alien_plant_enemy_Frame_23
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 4
+      width: 59
+      height: 62
+    spriteID: 928ca24b37402124291933f349bfb155
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 4}
+  - name: gif_alien_plant_enemy_Frame_24
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 74
+      width: 59
+      height: 62
+    spriteID: 7f629e080094c0842be3f2a9699ecac0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 74}
+  - name: gif_alien_plant_enemy_Frame_25
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 144
+      width: 59
+      height: 62
+    spriteID: 0e4a493ac687d0e499eac6cdec4765b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 144}
+  - name: gif_alien_plant_enemy_Frame_26
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 214
+      width: 59
+      height: 62
+    spriteID: 903e0cc488dd7954cba481d0cdcf7fe0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 214}
+  - name: gif_alien_plant_enemy_Frame_27
+    originalName: 
+    pivot: {x: 0.4915254, y: -0.016129032}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 284
+      width: 59
+      height: 62
+    spriteID: e83dd0325c02e3c4aa15cb5afeb100cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 284}
+  - name: gif_alien_plant_enemy_Frame_28
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.022222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 246
+      width: 61
+      height: 45
+    spriteID: 46f6cd65eb2f58242a3ae0a824189e3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 246}
+  - name: gif_alien_plant_enemy_Frame_29
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.03448276}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 447
+      width: 61
+      height: 29
+    spriteID: 92cfa8719511be44e8051bdb3b04e938
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 447}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1917176033
+    name: gif_alien_plant_enemy
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: gif_alien_plant_enemy_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 29
+      spriteId: e703eafb61c1c7d4e9c43a95f871b5bc
+    - name: gif_alien_plant_enemy_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 29
+      spriteId: 81cf4c68434e35840b3de1fe36b42c41
+    - name: gif_alien_plant_enemy_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 29
+      spriteId: 3d8767bf02f871a49ab385563d6c483b
+    - name: gif_alien_plant_enemy_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 29
+      spriteId: 3aef5fc2ed96d51458cc8e3b8272d5d0
+    - name: gif_alien_plant_enemy_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 45
+      spriteId: 50e5961dcaa6b1d46845ca4bf691f6f6
+    - name: gif_alien_plant_enemy_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 55
+      spriteId: cb8c208823fc57942a86ddc405e261c2
+    - name: gif_alien_plant_enemy_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 55
+      spriteId: e8e2deb45f087604b9c4d8133103232d
+    - name: gif_alien_plant_enemy_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 55
+      spriteId: 34edf2e172cabd3419e8df3d10a40ff1
+    - name: gif_alien_plant_enemy_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 55
+      spriteId: 990cafc4db4bd4f4194bb16943712355
+    - name: gif_alien_plant_enemy_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 55
+      spriteId: f815b8922f727474a969d7a4843dac0e
+    - name: gif_alien_plant_enemy_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 55
+      spriteId: 4953023704c83d245a94a3c93b4c24de
+    - name: gif_alien_plant_enemy_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 55
+      spriteId: f8fe0e63e8901094493c383727c69f56
+    - name: gif_alien_plant_enemy_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 55
+      spriteId: 4798141387317064b92ff369fa81dca4
+    - name: gif_alien_plant_enemy_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 55
+      spriteId: 45bbab7b47b170a4dbaf296b005a2237
+    - name: gif_alien_plant_enemy_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 55
+      spriteId: 923cfccbf4717dc498491f8f0fdc842d
+    - name: gif_alien_plant_enemy_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 55
+      spriteId: 510cff193f03fbd4aab7aeba212e3733
+    - name: gif_alien_plant_enemy_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: b92950b48de57844284d6fd034be03ca
+    - name: gif_alien_plant_enemy_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: 2e0fb910bc1b66c45b0b4f5697ba967b
+    - name: gif_alien_plant_enemy_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: 27ae21c5348f0d24980bcb337929f7cc
+    - name: gif_alien_plant_enemy_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: 28fecf174ca29ae46a5f3536e528471f
+    - name: gif_alien_plant_enemy_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: dd4951a5867d77f44b3801de7747317e
+    - name: gif_alien_plant_enemy_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: e1c5cb97e005fb845b76042eea1fd5cf
+    - name: gif_alien_plant_enemy_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: 222a58f84ac08d74aa82b17282c8851e
+    - name: gif_alien_plant_enemy_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: 928ca24b37402124291933f349bfb155
+    - name: gif_alien_plant_enemy_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: 7f629e080094c0842be3f2a9699ecac0
+    - name: gif_alien_plant_enemy_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: 0e4a493ac687d0e499eac6cdec4765b7
+    - name: gif_alien_plant_enemy_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: 903e0cc488dd7954cba481d0cdcf7fe0
+    - name: gif_alien_plant_enemy_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 3
+        y: 1
+        width: 59
+        height: 62
+      spriteId: e83dd0325c02e3c4aa15cb5afeb100cd
+    - name: gif_alien_plant_enemy_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 45
+      spriteId: 46f6cd65eb2f58242a3ae0a824189e3d
+    - name: gif_alien_plant_enemy_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 1
+        y: 1
+        width: 61
+        height: 29
+      spriteId: 92cfa8719511be44e8051bdb3b04e938
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}
